@@ -1,6 +1,6 @@
 Hi my name is Arjhay Frias and I am a Full Stack Developer!. 
 I've worked with numorous tech stacks including but not limited to MERN, LAMP, CodeIgniter, WordPress, and Ruby on Rails.
-I barely rely on the technologies I knew and am open to learning new technologies the the company uses.
+I barely rely on the technologies I knew and am open to learning new technologies that the company uses.
 I've worked with different company cultures, from Filipino, American, Korean, German and Chinese!
 According to my peers, my personality is funny and easy going and has a keen eye on details, and that I day dream alot.
 
